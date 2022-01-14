@@ -1,16 +1,16 @@
-# Profile
+[ Profile ]
 | key | value |
 | ---- | ---- |
 | name | Lucas |
 | location | Japan |
 | bio | 独学ではプログラミング難しいと感じてしまうけど、頑張ってます |
 
-# SNS Account
+[ SNS Account ]
 | key | value |
 | ---- | ---- |
 | Twitter | [@lucas07s_](https://twitter.com/lucas07s_) |
 
-# Language
+[ Language ]
 | key | value |
 | ---- | ---- |
 | html & css | ![75%](https://progress-bar.dev/75) |
