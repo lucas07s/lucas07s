@@ -3,7 +3,7 @@
 | ---- | ---- |
 | name | Lucas |
 | location | Japan |
-| bio | 独学ではプログラミング難しいと感じてしまうけど、頑張ってます |
+| bio |  |
 
 [ SNS Account ]
 | key | value |
